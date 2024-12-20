@@ -1,0 +1,4 @@
+Author Jehdai Williams
+Date Created: December 19, 2024
+Course ITT103
+Git Hub public URL to Code https://github.com/Jehdaiwill/Major-Assessment/blob/main/jehdai_programming_technique.py
